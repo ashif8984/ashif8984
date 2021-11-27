@@ -1,4 +1,4 @@
-## 😊 Ashif's Profile
+## Hi, I'm Ashif 😎
 # ![ashif header](https://github.com/ashif8984/ashif/blob/main/icons/cover2.png)
 I am Ashif, I’m a DevOps Engineer and Developer who is constantly motivated to upgrade my skills in the field of DevOps and Cloud. I quick learner and able to adapt to the team's ecosystem.
 I like to code in JavaScript using React.JS Framework . I'm also certified AWS Solution Architect. You can check out some of my projects in the Repository section or below.
