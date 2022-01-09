@@ -29,6 +29,7 @@ I like to code in JavaScript using React.js. I'm also certified AWS Solution Arc
 - [My Portfolio Website!](https://github.com/ashif8984/PortFolioWebsite)  😎
 - [Todo List app](https://github.com/ashif8984/TodoList-React) 📃
 - [Contact Manager](https://github.com/ashif8984/contact-manager.git) 👥
+- [Mini JavaScript Projects](https://github.com/ashif8984/miniJavscriptProjects) ⛏
 ---
 ## Contact Me  ☎
 
