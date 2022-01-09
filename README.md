@@ -29,7 +29,7 @@ I like to code in JavaScript using React.JS Framework . I'm also certified AWS S
 ### Some of my projects
 - [My Portfolio Website!](https://github.com/ashif8984/PortFolioWebsite)  😎
 - [Todo List app](https://github.com/ashif8984/TodoList-React) 📃
-
+- [Contact Manager](https://github.com/ashif8984/contact-manager.git) 👥
 
 ### You can reach out
 
