@@ -42,6 +42,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashif-eqbal-4ba85278/) 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/AshifEqbal12)
 
+### Blogs
+
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/ashif8984)
 
 <b>My GitHub Stats</b>
 
