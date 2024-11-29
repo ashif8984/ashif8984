@@ -34,7 +34,7 @@ and here
 ### Projects
 
 
-- [My Portfolio Website!](https://github.com/ashif8984/mywebsite)  
+- [My Portfolio Website!](https://github.com/ashif8984/mywebsite)
 - [Todo List app](https://github.com/ashif8984/TodoList-React) 
 - [Contact Manager](https://github.com/ashif8984/contact-manager.git) 
 - [Mini JavaScript Projects](https://github.com/ashif8984/miniJavscriptProjects) 
@@ -50,7 +50,12 @@ and here
 
 ### Blogs
 
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/ashif8984)
+
+✅ [How I cleared GCP- Associate Cloud Engineer Certification](https://dev.to/ashif8984/how-i-cleared-gcp-associate-cloud-engineer-certification-2ci1) 
+
+✅ [How I cleared AWS Certified DevOps Professional Certification-2024](https://dev.to/ashif8984/how-i-cleared-aws-certified-devops-professional-certification-2024-3cob)
+
+
 
 <b>My GitHub Stats</b>
 
