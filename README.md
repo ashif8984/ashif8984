@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 💻  I work on Web-Development, DevOps & Cloud 
 * ❤️  See my portfolio at [MyPortfolio](https://ashifeqbal.netlify.app/)
 * ✉️  You can contact me at [ashif8984@gmail.com](mailto:ashif8984@gmail.com)
-* 🧠  I'm learning JavaScript & ReactJS
+* 🧠  Currently I am building projects on roadmap.sh/projects. My progress 👉 [roadmap.sh/projects](https://roadmap.sh/projects/server-stats/solutions?u=6749dc3b5039431075791cc9)
 
 
 ### Skills
