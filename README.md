@@ -57,7 +57,7 @@ and here
 
 ✅ [How I cleared AWS Certified DevOps Professional Certification-2024](https://dev.to/ashif8984/how-i-cleared-aws-certified-devops-professional-certification-2024-3cob)
 
-
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/ashif8984) 👈 more  
 
 <b>My GitHub Stats</b>
 
