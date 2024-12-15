@@ -53,7 +53,7 @@ and here
 
 ✅ [How I cleared GCP- Associate Cloud Engineer Certification](https://dev.to/ashif8984/how-i-cleared-gcp-associate-cloud-engineer-certification-2ci1) 
 
-✅ [Deploying a static site using Github Action on Github Pages] (https://dev.to/ashif8984/deploying-a-static-site-using-github-action-on-github-pages-5a9a)
+✅ [Deploying a static site using Github Action on Github Pages](https://dev.to/ashif8984/deploying-a-static-site-using-github-action-on-github-pages-5a9a)
 
 ✅ [How I cleared AWS Certified DevOps Professional Certification-2024](https://dev.to/ashif8984/how-i-cleared-aws-certified-devops-professional-certification-2024-3cob)
 
