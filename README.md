@@ -9,8 +9,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ❤️  See my portfolio at [MyPortfolio](https://ashifeqbal.netlify.app/)
 * ✉️  You can contact me at [ashif8984@gmail.com](mailto:ashif8984@gmail.com)
 * 🧠  Currently I am building projects on roadmap.sh/projects. My progress 👉 [roadmap.sh/projects](https://roadmap.sh/projects/server-stats/solutions?u=6749dc3b5039431075791cc9)
-
-
+* 🧐  And Learning Node.js
+  
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=git,github,jenkins,ansible,docker,aws,kubernetes,react,nodejs,html,css,js,mysql,bash)](https://skillicons.dev)
 
