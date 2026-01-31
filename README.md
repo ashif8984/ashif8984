@@ -84,7 +84,4 @@ Hello, My name is Ashif Eqbal ![](https://user-images.githubusercontent.com/1835
 
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/ashif8984) 👈 more  
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ashif8984"><img src="https://github-readme-stats.vercel.app/api?username=ashif8984&show_icons=true&hide=contribs&count_private=true&title_color=000000&text_color=6366f1&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="ashif8984's GitHub stats" /></a>
 
