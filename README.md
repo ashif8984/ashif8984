@@ -11,13 +11,15 @@ Hello, My name is Ashif Eqbal ![](https://user-images.githubusercontent.com/1835
 
 
 ### What am I working on-
-* 👩🏻‍🚀  Completed Github Copilot Certification [Github Copilot](https://learn.microsoft.com/en-us/training/courses/gh-300t00) ✅
+* ⚙️  Completed Github Actions Certification [Github Actions](https://learn.microsoft.com/en-us/credentials/certifications/github-actions/?practice-assessment-type=certification) ✅
+* 👩🏻‍🚀  Completed Github Copilot Certification [Github Copilot](https://learn.microsoft.com/en-us/training/courses/gh-300t00) 
 * 🧠  Building projects on roadmap.sh/projects. My progress 👉 [roadmap.sh/projects](https://roadmap.sh/projects/server-stats/solutions?u=6749dc3b5039431075791cc9)
 * 🧐  Practising NodeJS backend development
 
 
 ### Certifications
 *   GitHub Copilot (GH-300) (Microsoft, issued Februrary 2026) - [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/AshifEqbal-1244/80D795AFE502844D?sharingId=B4DBA3B75B4D9D71)
+*   GitHub Actions (GH-200) (Microsoft, issued April  2026) - [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/AshifEqbal-1244/4A1EA93EE0648F9D?sharingId=B4DBA3B75B4D9D71)
 *   AWS Certified DevOps Engineer – Professional (AWS, issued March 2024) - [View Credential](https://www.credly.com/badges/2bcccc90-ac6d-40f9-bae2-b0e2e2a6f658/public_url)
 *   AWS Certified Solutions Architect – Associate (AWS, issued January 2020) - [View Credential](https://www.credly.com/badges/356a0221-9da7-4d5c-b46a-4457547329fb/public_url)
 *   HashiCorp Certified: Terraform Associate (002) (Hashicorp, issued March 2023) - [View Credential](https://www.credly.com/badges/cb9e552e-a6a1-42a4-9675-a7f90d61713a/public_url)
