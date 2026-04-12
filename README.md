@@ -17,7 +17,7 @@ Hello, My name is Ashif Eqbal ![](https://user-images.githubusercontent.com/1835
 * 🧐  Practising NodeJS backend development
 
 
-### Certifications
+### Certifications ( [credly](https://www.credly.com/users/ashif-eqbal) )
 *   GitHub Copilot (GH-300) (Microsoft, issued Februrary 2026) - [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/AshifEqbal-1244/80D795AFE502844D?sharingId=B4DBA3B75B4D9D71)
 *   GitHub Actions (GH-200) (Microsoft, issued April  2026) - [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/AshifEqbal-1244/4A1EA93EE0648F9D?sharingId=B4DBA3B75B4D9D71)
 *   AWS Certified DevOps Engineer – Professional (AWS, issued March 2024) - [View Credential](https://www.credly.com/badges/2bcccc90-ac6d-40f9-bae2-b0e2e2a6f658/public_url)
