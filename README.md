@@ -63,9 +63,8 @@ Hello, My name is Ashif Eqbal ![](https://user-images.githubusercontent.com/1835
 
 ### Projects 
 
-
+- [Kubernetes Monitoring using Prometheus and Grafana](https://github.com/ashif8984/kubernetes-monitoring-prometheus)
 - [My Portfolio Website!](https://github.com/ashif8984/mywebsite)
-- [Todo List app](https://github.com/ashif8984/TodoList-React) 
 - [Contact Manager](https://github.com/ashif8984/contact-manager.git) 
 - [Mini JavaScript Projects](https://github.com/ashif8984/miniJavscriptProjects) 
 - [LinkTree Clone](https://github.com/ashif8984/tailwindcss) 
